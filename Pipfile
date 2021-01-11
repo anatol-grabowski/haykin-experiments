@@ -13,6 +13,9 @@ matplotlib = "*"
 torch = "*"
 scipy = "*"
 pydub = "*"
+sklearn = "*"
+cvxpy = "*"
+cvxopt = "*"
 
 [requires]
 python_version = "*"
