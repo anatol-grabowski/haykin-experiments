@@ -15,7 +15,6 @@ scipy = "*"
 pydub = "*"
 sklearn = "*"
 cvxpy = "*"
-cvxopt = "*"
 
 [requires]
-python_version = "*"
+python_version = "3"
